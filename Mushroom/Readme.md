@@ -44,4 +44,4 @@ Summary of the Project
     
 This summarizes the steps at a high level and how the DTC model was built
 
-To see my Python Notebook, please click [here](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/blob/main/Mushroom/Data%20Trained-%20Mushroom%20Dataset_ML.ipynb)
+To see my Python Notebook, please click [here](https://nbviewer.jupyter.org/github/SudhaUdayakumar/Machine-Learning-Projects/blob/main/Mushroom/Mushroom_Dataset.ipynb)
