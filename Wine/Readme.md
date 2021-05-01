@@ -5,7 +5,7 @@
 **
 Predict the wine quality score, using the physiochemical properties
 
-https://github.com/SudhaUdayakumar/Machine-Learning-Projects/blob/main/Wine/Wine%20Data%20Analysis.png?raw=true
+![enter image description here](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/blob/main/Wine/Wine%20Data%20Analysis.png?raw=true)
 
 In this project, we will examine the data and build different machine learning models that will detect the happines score based on the features given.
 What might be an interesting thing to do, is to set an arbitrary cutoff for your dependent variable (wine quality) at e.g. 7 or higher getting classified as 'good/1' and the remainder as 'not good/0'.
@@ -25,4 +25,4 @@ After selecting the model, we have chosen the best model and done hyper Paramete
 
 Then finally we have saved the model and loaded to check if it works fine
 
-To view the details of my notebook, please click [here](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/blob/main/Wine/Quality of Wine Prediction using ML.ipynb)
+To view the details of my notebook, please click [here](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/blob/main/Wine/Quality%20of%20Wine%20Prediction%20using%20ML.ipynb)
