@@ -1,4 +1,3 @@
-
 **
 
 ## Wine Python Machine Learning Project
@@ -6,7 +5,7 @@
 **
 Predict the wine quality score, using the physiochemical properties
 
-[enter link description here](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/blob/main/Wine/Wine%20Data%20Analysis.png?raw=true)
+https://github.com/SudhaUdayakumar/Machine-Learning-Projects/blob/main/Wine/Wine%20Data%20Analysis.png?raw=true
 
 In this project, we will examine the data and build different machine learning models that will detect the happines score based on the features given.
 What might be an interesting thing to do, is to set an arbitrary cutoff for your dependent variable (wine quality) at e.g. 7 or higher getting classified as 'good/1' and the remainder as 'not good/0'.
