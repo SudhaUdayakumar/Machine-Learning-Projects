@@ -1,7 +1,9 @@
 # Machine-Learning-Projects
 The Machine Learning Projects as I learn, practice and implement; capturing them here with the latest on the top
 
-[Titanic ](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/Titanic)
+[Advertisement](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/Advertisement)
+
+[Titanic](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/Titanic)
 
 [Abalone](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/Abalone)
 
