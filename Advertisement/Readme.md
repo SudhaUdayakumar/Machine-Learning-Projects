@@ -1,16 +1,15 @@
 
-Titanic Dataset- Python Machine Learning
 ![enter image description here](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/blob/main/Advertisement/Advertisement.jpeg?raw=true)
-Advertising Sales Channel Dataset
+***Advertising Sales Channel Dataset***
 
  Sales Channel Prediction Case Study
     
-1. We have to see which channel has the highest Sales. Radion/Newspaper or TV
+1. We have to see which channel has the highest Sales. Radio/Newspaper or TV
 2. All our EDA shows TV has the highest sales, through our various plots
 3. Processing our data.
     Drop Column. The Unnamed column acts like a serial number so we drop them
     Outlier: Only 2 values in Newspaper have outlier, so we are dropping it. it comes to almost only 1% of data , so we are dropping it
-    Skewness: Was only with newspaper, and since there are negative values, used power transform to transform the data (execpt sales)    
+    Skewness: Was only with newspaper, and since there are negative values, used power transform to transform the data (except sales)    
         
 4. Model Building:
     We have used 6 models to build our data
