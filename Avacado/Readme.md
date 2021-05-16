@@ -1,7 +1,7 @@
 
 **
 
-## Avocado Predicting Price using Python Machine Learning
+## Avacado Predicting Price using Python Machine Learning
 
 **
 ![enter image description here](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/blob/main/Avacado/avacado2.gif?raw=true)
