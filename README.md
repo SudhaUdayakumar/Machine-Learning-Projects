@@ -1,6 +1,8 @@
 # Machine-Learning-Projects
 The Machine Learning Projects as I learn, practice and implement; capturing them here with the latest on the top
 
+[Avacado](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/Avacado)
+
 [HRAnalysis_Attrition](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/HRAnalysis_Attrition)
 
 [Advertisement](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/Advertisement)
