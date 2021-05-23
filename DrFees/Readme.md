@@ -7,7 +7,7 @@
 ![enter image description here](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/blob/main/DrFees/Dr%20Consultation%20Fees.jpeg?raw=true)
 
 ##  Summary
-<![endif]-->
+
 
 **Predicting Doctor Consultation Fees**
 
@@ -42,7 +42,7 @@ Model 6. PCA+ RMSLE- Scores improved.
 
 **Hyper Parameter Tuning**
 
-<![if !supportLists]>1. <![endif]>Hyper Tuning was done on Gradient Boost and Random Forest. Random Forest score had improved. So we will use the same and pass it to the Biz
+Hyper Tuning was done on Gradient Boost and Random Forest. Random Forest score had improved. So we will use the same and pass it to the Biz
 
 **Saving & Loading**
 
