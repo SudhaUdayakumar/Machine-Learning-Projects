@@ -1,6 +1,8 @@
 # Machine-Learning-Projects
 The Machine Learning Projects as I learn, practice and implement; capturing them here with the latest on the top
 
+[DrFees](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/DrFees)
+
 [LoanApplication](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/LoanApplication)
 [Census](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/Census)
 
