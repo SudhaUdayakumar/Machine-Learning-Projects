@@ -6,7 +6,7 @@
 ![enter image description here](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/blob/main/CustomerChurn/Customer%20churn.jpeg?raw=true)
 
 ##  Summary
-<![endif]-->
+
 
 **Customer Churn Analysis**
 
