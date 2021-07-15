@@ -1,6 +1,8 @@
 # Machine-Learning-Projects
 The Machine Learning Projects as I learn, practice and implement; capturing them here with the latest on the top
 
+[HousingProject](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/HousingProject)
+
 [Temperature_Multioutput](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/Temperature_Multioutput)
 
 [FlightPrice](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/FlightPrice)
