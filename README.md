@@ -1,6 +1,11 @@
 # Machine-Learning-Projects
 The Machine Learning Projects as I learn, practice and implement; capturing them here with the latest on the top
 
+
+[UsedCars](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/UsedCars)
+
+[Ecommerce Cust Retention EDA](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/Ecommerce%20Cust%20Retention%20EDA)
+
 [HousingProject](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/HousingProject)
 
 [Temperature_Multioutput](https://github.com/SudhaUdayakumar/Machine-Learning-Projects/tree/main/Temperature_Multioutput)
