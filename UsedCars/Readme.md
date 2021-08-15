@@ -25,7 +25,7 @@ EDA gave us some interesting info on the types of car. Sedan and Hatchback was h
 
 **Model Building** Was done in 2 ways after finding the Best Random state
 
-<![if !supportLists]>1. <![endif]>Model 1: We have used 7 models and 6 Evaluation Techniques (R2, RMSE, MAE, MSE, Cross validation-R2, Cross validation-RMSE). Also we found the diff of R2 & CV-R2diff, RMSE & RMSECV diff. The scores were not that good.
+<![if !supportLists]>1. <![endif]>Model 1: We have used 7 models and 6 Evaluation Techniques (R2, RMSE, MAE, MSE, Cross validation-R2, Cross validation-RMSE). Also we found the diff of R2 & CV-R2diff, RMSE & RMSECV diff. 
 
 <![if !supportLists]>2. <![endif]>Random forest was best and we will use that on Hyper Parameter Tuning
 
